@@ -1,0 +1,1634 @@
+[
+  {
+    "title": "Antelope Valley Line: Los Angeles - Lancaster Route Add-On",
+    "type": "Route",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3663190/bfc9ec26d72c6f1291efbfe70b3955bb08d45bf7/header.jpg?t=1769157622",
+    "developer": "Unknown",
+    "base_game": "Unknown",
+    "locomotives": [
+      "F125"
+    ],
+    "steam_link": "https://store.steampowered.com/app/3663190/",
+    "epic_link": "https://store.epicgames.com/en-US/p/train-sim-world-5--metrolink-antelope-valley-line",
+    "update_date": "25.09.2025",
+    "required_file": "TS2Prototype-WindowsNoEditor-MetrolinkAntelopeValleyLine.pak",
+    "release_date": "26 September 2023",
+    "status": "released",
+    "wiki_link": "https://train-sim-world.fandom.com/wiki/Antelope_Valley_Line"
+  },
+  {
+    "title": "Arosalinie: Chur - Arosa Route Add-On",
+    "type": "Route",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3662490/c4aac0e2d45f6f252e18edc98d19a513664b82be/header.jpg?t=1756229025",
+    "developer": "Unknown",
+    "base_game": "Unknown",
+    "locomotives": [
+      "Ge 4/4 II"
+    ],
+    "steam_link": "https://store.steampowered.com/app/3662490/",
+    "epic_link": "https://store.epicgames.com/en-US/p/train-sim-world-5--arosalinie-chur-arosa",
+    "update_date": "25.09.2025",
+    "required_file": "TS2Prototype-WindowsNoEditor-ArosaLine.pak",
+    "release_date": "25th March 2021",
+    "status": "released",
+    "wiki_link": "https://train-sim-world.fandom.com/wiki/Service_Timetable%3A_Arosalinie"
+  },
+  {
+    "title": "Bahnstrecke Bremen - Oldenburg Route Add-On",
+    "type": "Route",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3662950/dd15fa956626ae16e061fa64dd113eef72f8b329/header.jpg?t=1756230234",
+    "developer": "Unknown",
+    "base_game": "Unknown",
+    "locomotives": [
+      "DB BR 110.3",
+      "DB BR 425",
+      "DB BR 155"
+    ],
+    "steam_link": "https://store.steampowered.com/app/3662950/",
+    "epic_link": "https://store.epicgames.com/en-US/p/train-sim-world-5--bahnstrecke-bremen-oldenburg",
+    "update_date": "25.09.2025",
+    "required_file": "TS2Prototype-WindowsNoEditor-BremenOldenburg.pak",
+    "release_date": "6th December 2022",
+    "status": "released",
+    "wiki_link": "https://train-sim-world.fandom.com/wiki/Bahnstrecke_Bremen_%E2%80%93_Oldenburg"
+  },
+  {
+    "title": "Bahnstrecke Leipzig - Dresden Route Add-On",
+    "type": "Route",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3663670/f3f78a9102dbc4cb052ee573cd8d0df5b476eded/header.jpg?t=1761226164",
+    "developer": "Unknown",
+    "base_game": "Unknown",
+    "locomotives": [
+      "DB BR 143",
+      "DB BR 146",
+      "DB BR 185.2 Railion",
+      "DB BR 363 DBB",
+      "DB BR 411 ICE-T",
+      "DB BR 442"
+    ],
+    "steam_link": "https://store.steampowered.com/app/3663670/",
+    "epic_link": "https://store.epicgames.com/en-US/p/train-sim-world-6--bahnstrecke-leipzig-dresden",
+    "update_date": "13.03.2026",
+    "required_file": "TS2Prototype-WindowsNoEditor-DresdenLeipzig.pak",
+    "release_date": "30th September 2025",
+    "status": "released",
+    "wiki_link": "https://train-sim-world.fandom.com/wiki/Bahnstrecke_Leipzig_-_Dresden"
+  },
+  {
+    "title": "Bahnstrecke Salzburg - Rosenheim Route Add-On",
+    "type": "Route",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3663310/13c744724eb1180b1852af80751041c2253772b6/header.jpg?t=1756229956",
+    "developer": "Unknown",
+    "base_game": "Unknown",
+    "locomotives": [
+      "DB BR 111",
+      "DB BR 185.2 Railion",
+      "ÖBB 4024"
+    ],
+    "steam_link": "https://store.steampowered.com/app/3663310/",
+    "epic_link": "https://store.epicgames.com/en-US/p/train-sim-world-4--bahnstrecke-salzburg-rosenheim",
+    "update_date": "25.09.2025",
+    "required_file": "TS2Prototype-WindowsNoEditor-SalzburgRosenheim.pak",
+    "release_date": "27th February 2024",
+    "status": "released",
+    "wiki_link": "https://train-sim-world.fandom.com/wiki/Bahnstrecke_Salzburg-Rosenheim"
+  },
+  {
+    "title": "Bakerloo Line Route Add-On",
+    "type": "Route",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3662870/9f1032b06c8182ac7716fb03a1a10ea0e87a3848/header.jpg?t=1769158844",
+    "developer": "Unknown",
+    "base_game": "Unknown",
+    "locomotives": [
+      "1972 Mark 2 Stock"
+    ],
+    "steam_link": "https://store.steampowered.com/app/3662870/",
+    "epic_link": null,
+    "update_date": "25.09.2025",
+    "required_file": "TS2Prototype-WindowsNoEditor-LUBakerlooLine.pak",
+    "release_date": "20th August 2020",
+    "status": "released",
+    "wiki_link": "https://train-sim-world.fandom.com/wiki/Bakerloo_Line"
+  },
+  {
+    "title": "Berninalinie: Tirano - Ospizio Bernina Route Add-On",
+    "type": "Route",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3663280/17eb8bfab882d2a7d232ca0e9a692be5024df5b0/header.jpg?t=1756230052",
+    "developer": "Unknown",
+    "base_game": "Unknown",
+    "locomotives": [
+      "ABe 8/12 <i>Allegra</i>"
+    ],
+    "steam_link": "https://store.steampowered.com/app/3663280/",
+    "epic_link": null,
+    "update_date": "25.09.2025",
+    "required_file": "TS2Prototype-WindowsNoEditor-BerninaLine.pak",
+    "release_date": "16th January 2024",
+    "status": "released",
+    "wiki_link": "https://train-sim-world.fandom.com/wiki/Berninalinie"
+  },
+  {
+    "title": "Birmingham Cross-City Line: Lichfield - Bromsgrove & Redditch Route Add-On",
+    "type": "Route",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3662940/153adcc47ed8d21b021040739ab5c70ebcf50bdb/header.jpg?t=1756230194",
+    "developer": "Unknown",
+    "base_game": "Unknown",
+    "locomotives": [
+      "Class 323"
+    ],
+    "steam_link": "https://store.steampowered.com/app/3662940/",
+    "epic_link": "https://store.epicgames.com/en-US/p/train-sim-world-3--birmingham-cross-city-line",
+    "update_date": "12.05.2026",
+    "required_file": "TS2Prototype-WindowsNoEditor-CrossCityLine.pak",
+    "release_date": "17th November 2022",
+    "status": "released",
+    "wiki_link": "https://train-sim-world.fandom.com/wiki/Birmingham_Cross-City_Line"
+  },
+  {
+    "title": "Blackpool Branches: Preston - Blackpool & Ormskirk Route Add-On",
+    "type": "Route",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3663060/7355a0aa5f91208142b8fb0b936781c530b0f3e1/header.jpg?t=1756230302",
+    "developer": "Unknown",
+    "base_game": "Unknown",
+    "locomotives": [
+      "BR Class 08",
+      "BR Class 47",
+      "BR Class 142"
+    ],
+    "steam_link": "https://store.steampowered.com/app/3663060/",
+    "epic_link": "https://store.epicgames.com/en-US/p/train-sim-world-4--preston-blackpool-ormskirk",
+    "update_date": "25.09.2025",
+    "required_file": "TS2Prototype-WindowsNoEditor-PrestonBlackpool.pak",
+    "release_date": "14th November 2023",
+    "status": "released",
+    "wiki_link": "https://train-sim-world.fandom.com/wiki/Blackpool_Branches"
+  },
+  {
+    "title": "Brighton Main Line: London Victoria - Brighton Route Add-On",
+    "type": "Route",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3662630/ac9152eac66d8aac482b5faac56a85da8e489087/header.jpg?t=1756229403",
+    "developer": "Unknown",
+    "base_game": "Unknown",
+    "locomotives": [
+      "BR Class 377/4",
+      "BR Class 387/2"
+    ],
+    "steam_link": "https://store.steampowered.com/app/3662630/",
+    "epic_link": "https://store.epicgames.com/en-US/p/train-sim-world-5--brighton-main-line-london-victoria-brighton",
+    "update_date": "06.02.2026",
+    "required_file": "TS2Prototype-WindowsNoEditor-LondonBrighton.pak",
+    "release_date": "7th October 2021",
+    "status": "released",
+    "wiki_link": "https://train-sim-world.fandom.com/wiki/Brighton_Main_Line"
+  },
+  {
+    "title": "Cajon Pass: Barstow - San Bernardino Route Add-On",
+    "type": "Route",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3662800/c8f7e5a1c4049fd443ab587002d60c8f06287f6c/header.jpg?t=1769158109",
+    "developer": "Unknown",
+    "base_game": "Unknown",
+    "locomotives": [
+      "ES44C4",
+      "SD40-2"
+    ],
+    "steam_link": "https://store.steampowered.com/app/3662800/",
+    "epic_link": "https://store.epicgames.com/en-US/p/train-sim-world-5--cajon-pass-barstow-san-bernardino",
+    "update_date": "25.09.2025",
+    "required_file": "TS2Prototype-WindowsNoEditor-CajonPass.pak",
+    "release_date": "6th September 2022",
+    "status": "released",
+    "wiki_link": "https://train-sim-world.fandom.com/wiki/Cajon_Pass"
+  },
+  {
+    "title": "Cane Creek: Thompson - Potash Route Add-On",
+    "type": "Route",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3662500/0e8edbfd1dcd2e3009ce7227a2f1400b7371e56c/header.jpg?t=1756229054",
+    "developer": "Skyhook Games",
+    "base_game": "Unknown",
+    "locomotives": [
+      "AC4400CW",
+      "SD40-2"
+    ],
+    "steam_link": "https://store.steampowered.com/app/3662500/",
+    "epic_link": "https://store.epicgames.com/en-US/p/train-sim-world-5--cane-creek-thompson-potash",
+    "update_date": "25.09.2025",
+    "required_file": "TS2Prototype-WindowsNoEditor-CaneCreekRailroad.pak",
+    "release_date": "8th July 2021",
+    "status": "released",
+    "wiki_link": "https://train-sim-world.fandom.com/wiki/Cane_Creek"
+  },
+  {
+    "title": "Cardiff City Network: Radur & Coryton – Penarth & Bae Caerdydd Route Add-On",
+    "type": "Route",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3663540/76ff49e2c7575e411f65ef156ea00822cdd6ef3a/header.jpg?t=1756229155",
+    "developer": "Unknown",
+    "base_game": "Unknown",
+    "locomotives": [
+      "BR Class 150",
+      "BR Class 153"
+    ],
+    "steam_link": "https://store.steampowered.com/app/3663540/",
+    "epic_link": "https://store.epicgames.com/en-US/p/train-sim-world-5--cardiff-city-network-radur-coryton-penarth-bae-caerdydd",
+    "update_date": "13.11.2025",
+    "required_file": "TS2Prototype-WindowsNoEditor-CardiffCityCommuter.pak",
+    "release_date": "18th March 2025",
+    "status": "released",
+    "wiki_link": "https://train-sim-world.fandom.com/wiki/Cardiff_City_Network"
+  },
+  {
+    "title": "Cathcart Circle Line: Glasgow - Neilston & Newton Add-On",
+    "type": "Route",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3662560/022b12764db6690bbb414115dbf894484b90bf21/header.jpg?t=1756229262",
+    "developer": "Unknown",
+    "base_game": "Unknown",
+    "locomotives": [
+      "BR Class 314"
+    ],
+    "steam_link": "https://store.steampowered.com/app/3662560/",
+    "epic_link": "https://store.epicgames.com/en-US/p/train-sim-world-4--cathcart-circle-line",
+    "update_date": "25.09.2025",
+    "required_file": "TS2Prototype-WindowsNoEditor-GlasgowCathcart.pak",
+    "release_date": "10th June 2021",
+    "status": "released",
+    "wiki_link": "https://train-sim-world.fandom.com/wiki/Cathcart_Circle_Line"
+  },
+  {
+    "title": "Clinchfield Railroad: Elkhorn - Dante Route Add-On",
+    "type": "Route",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3662530/04230abda7a9e0e6415021dd3d01451ad14b984a/header.jpg?t=1777635422",
+    "developer": "Unknown",
+    "base_game": "Unknown",
+    "locomotives": [
+      "F7",
+      "SD40"
+    ],
+    "steam_link": "https://store.steampowered.com/app/3662530/",
+    "epic_link": "https://www.epicgames.com/store/en-US/p/train-sim-world-2--clinchfield-railroad-elkhorn-dante",
+    "update_date": "25.09.2025",
+    "required_file": "TS2Prototype-WindowsNoEditor-ClinchfieldRailroad.pak",
+    "release_date": "8th April 2021",
+    "status": "released",
+    "wiki_link": "https://train-sim-world.fandom.com/wiki/Clinchfield_Railroad_%28Operator%29"
+  },
+  {
+    "title": "CN Oakville Subdivision",
+    "type": "Route",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2969570/edf486f7b9749c2956abb1287a32748b3f0850aa/header.jpg?t=1762257786",
+    "developer": "Unknown",
+    "base_game": "Unknown",
+    "locomotives": [
+      "GP9",
+      "GP38-2"
+    ],
+    "steam_link": "https://store.steampowered.com/app/2969570/Train_Sim_World_5_Canadian_National_Oakville_Subdivision_Hamilton__Oakville_Route_AddOn",
+    "epic_link": "https://store.epicgames.com/en-US/p/train-sim-world-5--canadian-national-oakville-subdivision-hamilton-oakville",
+    "update_date": "25.09.2025",
+    "required_file": "TS2Prototype-WindowsNoEditor-TSW2TorontoIndustrial.pak",
+    "release_date": "20th February 2020",
+    "status": "released",
+    "wiki_link": "https://train-sim-world.fandom.com/wiki/CN_Oakville_Subdivision"
+  },
+  {
+    "title": "Cumbrian Coast: Carlisle - Whitehaven",
+    "type": "Route",
+    "image": "https://static.wikia.nocookie.net/train-sim-world/images/9/91/Cumbrian-Coast-Map.jpg",
+    "developer": "Unknown",
+    "base_game": "Unknown",
+    "locomotives": [],
+    "steam_link": null,
+    "epic_link": null,
+    "update_date": null,
+    "required_file": null,
+    "release_date": "Unknown",
+    "status": "coming_soon",
+    "wiki_link": "https://train-sim-world.fandom.com/wiki/Cumbrian_Coast%3A_Carlisle_-_Whitehaven"
+  },
+  {
+    "title": "East Coast Main Line: Peterborough - Doncaster Route Add-On",
+    "type": "Route",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3663200/d30d097104e818e15870e9faa55d3744e009654e/header.jpg?t=1769157657",
+    "developer": "Unknown",
+    "base_game": "Unknown",
+    "locomotives": [
+      "BR Class 801",
+      "BR Class 66"
+    ],
+    "steam_link": "https://store.steampowered.com/app/3663200/",
+    "epic_link": "https://store.epicgames.com/en-US/p/train-sim-world-4--east-coast-mainline",
+    "update_date": "27.04.2026",
+    "required_file": "TS2Prototype-WindowsNoEditor-EastCoastMainline.pak",
+    "release_date": "26 September 2023",
+    "status": "released",
+    "wiki_link": "https://train-sim-world.fandom.com/wiki/East_Coast_Main_Line%3A_Peterborough_-_Doncaster"
+  },
+  {
+    "title": "East Coastway Remastered: Brighton - Eastbourne & Seaford Route Add-On",
+    "type": "Route",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3662330/c0a6bb31a30895ae6c68be4e47b1b92e28c20bbb/header.jpg?t=1772191681",
+    "developer": "Unknown",
+    "base_game": "Unknown",
+    "locomotives": [
+      "BR Class 66",
+      "BR Class 377/4"
+    ],
+    "steam_link": "https://store.steampowered.com/app/3662330/",
+    "epic_link": "https://store.epicgames.com/en-US/p/train-sim-world-6--east-coastway-brighton-eastbourne-seaford",
+    "update_date": "27.04.2026",
+    "required_file": "TS2Prototype-WindowsNoEditor-EastCoastway.pak",
+    "release_date": "12th December 2019",
+    "status": "released",
+    "wiki_link": "https://train-sim-world.fandom.com/wiki/Service_Timetable%3A_East_Coastway"
+  },
+  {
+    "title": "Fife Circle Line & Levenmouth Rail Link Route Add-On",
+    "type": "Route",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3663340/67883df283b3c2de21166f923d433b1e20946724/header.jpg?t=1756229790",
+    "developer": "Unknown",
+    "base_game": "Unknown",
+    "locomotives": [
+      "BR Class 170"
+    ],
+    "steam_link": "https://store.steampowered.com/app/3663340/",
+    "epic_link": "https://store.epicgames.com/en-US/p/train-sim-world-5--fife-circle-line-levenmouth-rail-link",
+    "update_date": "25.09.2025",
+    "required_file": "TS2Prototype-WindowsNoEditor-FifeCircle.pak",
+    "release_date": "March 26th 2024",
+    "status": "released",
+    "wiki_link": "https://train-sim-world.fandom.com/wiki/Fife_Circle_Line_%26_Levenmouth_Rail_Link"
+  },
+  {
+    "title": "Frankenbahn: Stuttgart - Heilbronn Route Add-On",
+    "type": "Route",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4035820/e0d3b6fda0f3bea01c63834337884cc569296f5b/header.jpg?t=1775120482",
+    "developer": "Unknown",
+    "base_game": "Unknown",
+    "locomotives": [
+      "DB BR 111",
+      "DB BR 140",
+      "DB BR 363",
+      "DB BR 423"
+    ],
+    "steam_link": "https://store.steampowered.com/app/4035820/",
+    "epic_link": null,
+    "update_date": "02.04.2026",
+    "required_file": "TS2Prototype-WindowsNoEditor-StuttgartHeilbronn.pak",
+    "release_date": "9th December 2025",
+    "status": "recently_added",
+    "wiki_link": "https://train-sim-world.fandom.com/wiki/Frankenbahn_Stuttgart_-_Heilbronn"
+  },
+  {
+    "title": "Frankfurt S-Bahn: S1, S8 & S9 Route Add-On",
+    "type": "Route",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3663640/bdf2001a88a4903e96788c0333843fd286d5b3f7/header.jpg?t=1756228378",
+    "developer": "Unknown",
+    "base_game": "Unknown",
+    "locomotives": [
+      "DB BR 143",
+      "DB BR 423",
+      "DB BR 430"
+    ],
+    "steam_link": "https://store.steampowered.com/app/3663640/",
+    "epic_link": "https://store.epicgames.com/en-US/p/train-sim-world-5--frankfurt-s-bahn-s1-s8-s9",
+    "update_date": "22.01.2026",
+    "required_file": "TS2Prototype-WindowsNoEditor-FrankfurtSBahn.pak",
+    "release_date": "20th May 2025",
+    "status": "released",
+    "wiki_link": "https://train-sim-world.fandom.com/wiki/Frankfurt_S-Bahn"
+  },
+  {
+    "title": "Glossop Line: Manchester - Hadfield & Glossop Route Add-On",
+    "type": "Route",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3663170/d6a252ff2edd3d3c07c88441ab79a1a74365412d/header.jpg?t=1756230582",
+    "developer": "Unknown",
+    "base_game": "Unknown",
+    "locomotives": [
+      "BR Class 323"
+    ],
+    "steam_link": "https://store.steampowered.com/app/3663170/",
+    "epic_link": "https://store.epicgames.com/en-US/p/train-sim-world-3--glossop-line-manchester-hadfield-glossop",
+    "update_date": "25.09.2025",
+    "required_file": "TS2Prototype-WindowsNoEditor-GlossopLine.pak",
+    "release_date": "27th June 2023",
+    "status": "released",
+    "wiki_link": "https://train-sim-world.fandom.com/wiki/Glossop_Line"
+  },
+  {
+    "title": "Great Western Express Remastered Route Add-On",
+    "type": "Route",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3656860/e83f67148cbd7ce6bb683ef596549b58e20fd64a/header.jpg?t=1776348510",
+    "developer": "Unknown",
+    "base_game": "Unknown",
+    "locomotives": [
+      "BR Class 43 HST",
+      "BR Class 66",
+      "BR Class 166"
+    ],
+    "steam_link": "https://store.steampowered.com/app/3656860/",
+    "epic_link": "https://store.epicgames.com/en-US/p/train-sim-world-6--great-western-express",
+    "update_date": "05.05.2026",
+    "required_file": "TS2Prototype-WindowsNoEditor-TSW2PaddingtonReading.pak",
+    "release_date": "14th September 2017",
+    "status": "released",
+    "wiki_link": "https://train-sim-world.fandom.com/wiki/Service_Timetable%3A_Great_Western_Express"
+  },
+  {
+    "title": "Harlem Line: Grand Central Terminal - North White Plains Route Add-On",
+    "type": "Route",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3662730/76ba2e785c2f126f3be77e26f9ecb2672830a353/header.jpg?t=1756229731",
+    "developer": "Unknown",
+    "base_game": "Unknown",
+    "locomotives": [
+      "M3A",
+      "M7A"
+    ],
+    "steam_link": "https://store.steampowered.com/app/3662730/",
+    "epic_link": "https://store.epicgames.com/en-US/p/train-sim-world-6--harlem-line-grand-central-terminal-north-white-plains",
+    "update_date": "18.03.2026",
+    "required_file": "TS2Prototype-WindowsNoEditor-HarlemLine.pak",
+    "release_date": "17th March 2022",
+    "status": "released",
+    "wiki_link": "https://train-sim-world.fandom.com/wiki/Harlem_Line"
+  },
+  {
+    "title": "Hauptstrecke Hamburg - Lübeck Route Add-On",
+    "type": "Route",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3662550/315d473ea1397b038ba3ce044032024b11143752/header.jpg?t=1756229228",
+    "developer": "Unknown",
+    "base_game": "Unknown",
+    "locomotives": [
+      "DB BR 112",
+      "MRCE ES 64 U2"
+    ],
+    "steam_link": "https://store.steampowered.com/app/3662550/",
+    "epic_link": "https://store.epicgames.com/en-US/p/train-sim-world-5--hauptstrecke-hamburg-lubeck",
+    "update_date": "25.09.2025",
+    "required_file": "TS2Prototype-WindowsNoEditor-HamburgLubeck.pak",
+    "release_date": "13th May 2021",
+    "status": "released",
+    "wiki_link": "https://train-sim-world.fandom.com/wiki/Hauptstrecke_Hamburg_%E2%80%93_L%C3%BCbeck"
+  },
+  {
+    "title": "Hauptstrecke Munchen - Augsburg Route Add-On",
+    "type": "Route",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3662420/5a443fdac6bb141c7fe4892cc637bf7274b3c9b3/header.jpg?t=1756228847",
+    "developer": "Unknown",
+    "base_game": "Unknown",
+    "locomotives": [
+      "DB BR 403 ICE 3",
+      "DB BR 423"
+    ],
+    "steam_link": "https://store.steampowered.com/app/3662420/",
+    "epic_link": "https://store.epicgames.com/en-US/p/train-sim-world-5--hauptstrecke-munchen-augsburg",
+    "update_date": "22.01.2026",
+    "required_file": "TS2Prototype-WindowsNoEditor-MunichAugsburg.pak",
+    "release_date": "22nd October 2020",
+    "status": "released",
+    "wiki_link": "https://train-sim-world.fandom.com/wiki/Hauptstrecke_M%C3%BCnchen_%E2%80%93_Augsburg"
+  },
+  {
+    "title": "Hauptstrecke Rhein-Ruhr: Duisburg - Bochum Route Add-On",
+    "type": "Route",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3662370/51e2f3450251188db49c5686b106d121127eff2e/header.jpg?t=1756228619",
+    "developer": "Unknown",
+    "base_game": "Unknown",
+    "locomotives": [
+      "DB BR 422",
+      "DB BR 425"
+    ],
+    "steam_link": "https://store.steampowered.com/app/3662370/",
+    "epic_link": "https://store.epicgames.com/en-US/p/train-sim-world-5--hauptstrecke-rhein-ruhr-duisburg-bochum",
+    "update_date": "25.09.2025",
+    "required_file": "TS2Prototype-WindowsNoEditor-NorthRhineMainLine.pak",
+    "release_date": "24th March 2020",
+    "status": "released",
+    "wiki_link": "https://train-sim-world.fandom.com/wiki/Hauptstrecke_Rhein-Ruhr"
+  },
+  {
+    "title": "The Holiday Express - Runaway Elf",
+    "type": "Route",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2176880/header.jpg",
+    "developer": "Unknown",
+    "base_game": "Unknown",
+    "locomotives": [
+      "Richie Rails F7"
+    ],
+    "steam_link": "https://store.steampowered.com/app/2176880/",
+    "epic_link": null,
+    "update_date": "25.09.2025",
+    "required_file": "TS2Prototype-WindowsNoEditor-HolidayExpress.pak",
+    "release_date": "13th December 2022",
+    "status": "released",
+    "wiki_link": "https://train-sim-world.fandom.com/wiki/Holiday_Express"
+  },
+  {
+    "title": "Horseshoe Curve: Altoona - Johnstown & South Fork Route Add-On",
+    "type": "Route",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3662650/24251b4d5574fa722d81c76de4cc260046e4e90c/header.jpg?t=1756229470",
+    "developer": "Unknown",
+    "base_game": "Unknown",
+    "locomotives": [
+      "ES44AC",
+      "GP38-2"
+    ],
+    "steam_link": "https://store.steampowered.com/app/3662650/",
+    "epic_link": "https://store.epicgames.com/tr/p/train-sim-world-5--horseshoe-curve",
+    "update_date": "25.09.2025",
+    "required_file": "TS2Prototype-WindowsNoEditor-HorseshoeCurve.pak",
+    "release_date": "12th April 2022",
+    "status": "released",
+    "wiki_link": "https://train-sim-world.fandom.com/wiki/Horseshoe_Curve"
+  },
+  {
+    "title": "Island Line 2022: BR Class 484 EMU Add-On",
+    "type": "Route",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3662900/2690289af16b7f776c737f4f2281a443cd62b4f8/header.jpg?t=1756230047",
+    "developer": "Unknown",
+    "base_game": "Unknown",
+    "locomotives": [
+      "BR Class 484"
+    ],
+    "steam_link": "https://store.steampowered.com/app/3662900/",
+    "epic_link": "https://store.epicgames.com/en-US/p/train-sim-world-5--island-line-2022-br-class-484-emu",
+    "update_date": "06.02.2026",
+    "required_file": "TS2Prototype-WindowsNoEditor-IsleofWightV2.pak",
+    "release_date": "19 July 2022",
+    "status": "released",
+    "wiki_link": "https://train-sim-world.fandom.com/wiki/Island_Line_2022"
+  },
+  {
+    "title": "Isle Of Wight: Ryde - Shanklin Route Add-On",
+    "type": "Route",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3662410/a310c97ef54a51351fad380cd8f4a14081f32809/header.jpg?t=1756228795",
+    "developer": "Unknown",
+    "base_game": "Unknown",
+    "locomotives": [
+      "BR Class 483"
+    ],
+    "steam_link": "https://store.steampowered.com/app/3662410/",
+    "epic_link": "https://store.epicgames.com/en-US/p/train-sim-world-5--isle-of-wight-ryde-shanklin#:~:text=newer%20core%20features.-,Experience%20one%20of%20the%20most%20unique%20railway%20lines%20in%20England,on%20the%20Isle%20of%20Wight.",
+    "update_date": "25.09.2025",
+    "required_file": "TS2Prototype-WindowsNoEditor-IsleOfWight.pak",
+    "release_date": "15 October 2020",
+    "status": "released",
+    "wiki_link": "https://train-sim-world.fandom.com/wiki/Isle_of_Wight"
+  },
+  {
+    "title": "Frankfurt - Fulda: Kinzigtalbahn Route Add-On",
+    "type": "Route",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2970810/header.jpg?t=1726838793",
+    "developer": "Unknown",
+    "base_game": "Unknown",
+    "locomotives": [
+      "DB BR 114",
+      "DB BR 146",
+      "Siemens Vectron",
+      "DB BR 411 ICE-T",
+      "DB BR 423"
+    ],
+    "steam_link": "https://store.steampowered.com/app/2970810/",
+    "epic_link": "https://store.epicgames.com/en-US/p/train-sim-world-5--frankfurt-fulda-kinzigtalbahn-route",
+    "update_date": "22.01.2026",
+    "required_file": "TS2Prototype-WindowsNoEditor-FrankfurtFulda.pak",
+    "release_date": "17th September 2024",
+    "status": "released",
+    "wiki_link": "https://train-sim-world.fandom.com/wiki/Kinzigtalbahn"
+  },
+  {
+    "title": "LGV Mediterranee: Marseille - Avignon Route Add-On",
+    "type": "Route",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3662460/ff193dc3bd104947c26fb9e87f58d6fda1168a83/header.jpg?t=1756228984",
+    "developer": "Unknown",
+    "base_game": "Unknown",
+    "locomotives": [
+      "TGV Duplex"
+    ],
+    "steam_link": "https://store.steampowered.com/app/3662460/",
+    "epic_link": "https://store.epicgames.com/en-US/p/train-sim-world-5--lgv-mediterranee-marseille-avignon",
+    "update_date": "25.09.2025",
+    "required_file": "TS2Prototype-WindowsNoEditor-MarseilleAvignon.pak",
+    "release_date": "17th December 2020",
+    "status": "released",
+    "wiki_link": "https://train-sim-world.fandom.com/wiki/LGV_M%C3%A9diterran%C3%A9e"
+  },
+  {
+    "title": "Liberec - Stará Paka Route Add-On",
+    "type": "Route",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3663890/a7bf2cd3e8bbf1c4836123d6e8b96270eb9d0518/header.jpg?t=1773307082",
+    "developer": "Unknown",
+    "base_game": "Unknown",
+    "locomotives": [],
+    "steam_link": "https://store.steampowered.com/app/3663890/",
+    "epic_link": null,
+    "update_date": "10.03.2026",
+    "required_file": "TS2Prototype-WindowsNoEditor-LiberecStaraPaka.pak",
+    "release_date": "10th March 2026",
+    "status": "recently_added",
+    "wiki_link": "https://train-sim-world.fandom.com/wiki/Liberec_-_Star%C3%A1_Paka"
+  },
+  {
+    "title": "Linke Rheinstrecke: Mainz - Koblenz Route Add-On",
+    "type": "Route",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3663070/302b0b81b3eddff114731dda61d5e4ff44292bcc/header.jpg?t=1756230619",
+    "developer": "Unknown",
+    "base_game": "Unknown",
+    "locomotives": [
+      "DB BR 103",
+      "DB BR 110.3"
+    ],
+    "steam_link": "https://store.steampowered.com/app/3663070/",
+    "epic_link": "https://store.epicgames.com/en-US/p/train-sim-world-5--linke-rheinstrecke-mainz-koblenz",
+    "update_date": "25.09.2025",
+    "required_file": "TS2Prototype-WindowsNoEditor-LeftRhine.pak",
+    "release_date": "16th March 2023",
+    "status": "released",
+    "wiki_link": "https://train-sim-world.fandom.com/wiki/Linke_Rheinstrecke"
+  },
+  {
+    "title": "LIRR Commuter: New York - Long Beach, Hempstead & Hicksville Route Add-On",
+    "type": "Route",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3663300/5f426cddbc26e4a01286f6b09d7c18ea1fa9d8a8/header.jpg?t=1756230021",
+    "developer": "Unknown",
+    "base_game": "Unknown",
+    "locomotives": [
+      "M7",
+      "M9"
+    ],
+    "steam_link": "https://store.steampowered.com/app/3663300/",
+    "epic_link": "https://store.epicgames.com/en-US/p/train-sim-world-4--lirr-commuter-new-york-long-beach-hempstead-hicksville",
+    "update_date": "25.09.2025",
+    "required_file": "TS2Prototype-WindowsNoEditor-LongIslandRailRoadExtended.pak",
+    "release_date": "30th April 2024",
+    "status": "released",
+    "wiki_link": "https://train-sim-world.fandom.com/wiki/LIRR_Commuter"
+  },
+  {
+    "title": "Lisbon - Setúbal",
+    "type": "Route",
+    "image": null,
+    "developer": "Unknown",
+    "base_game": "Unknown",
+    "locomotives": [],
+    "steam_link": null,
+    "epic_link": null,
+    "update_date": null,
+    "required_file": null,
+    "release_date": "Unknown",
+    "status": "coming_soon",
+    "wiki_link": "https://train-sim-world.fandom.com/wiki/Lisbon_-_Set%C3%BAbal"
+  },
+  {
+    "title": "London Overground Mildmay line: Stratford - Willesden Junction Route Add-On",
+    "type": "Route",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3663520/4530e009c17b771d9dc7200584a4bc812cfc10cd/header.jpg?t=1756228929",
+    "developer": "Unknown",
+    "base_game": "Unknown",
+    "locomotives": [
+      "BR Class 378 Capitalstar"
+    ],
+    "steam_link": "https://store.steampowered.com/app/3663520/",
+    "epic_link": "https://store.epicgames.com/en-US/p/train-sim-world-5--london-overground-mildmay-line-stratford-willesden-junction",
+    "update_date": "25.09.2025",
+    "required_file": "TS2Prototype-WindowsNoEditor-NorthLondonLine.pak",
+    "release_date": "4th March 2025",
+    "status": "released",
+    "wiki_link": "https://train-sim-world.fandom.com/wiki/London_Overground_Mildmay_Line"
+  },
+  {
+    "title": "London Overground Suffragette line: Gospel Oak - Barking Riverside Route Add-On",
+    "type": "Route",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3663320/7f142593814d29c742c7f67261ee88eebbc08ad7/header.jpg?t=1756229883",
+    "developer": "Unknown",
+    "base_game": "Unknown",
+    "locomotives": [
+      "BR Class 710"
+    ],
+    "steam_link": "https://store.steampowered.com/app/3663320/",
+    "epic_link": null,
+    "update_date": "25.09.2025",
+    "required_file": "TS2Prototype-WindowsNoEditor-GoblinLine.pak",
+    "release_date": "March 19th 2024",
+    "status": "released",
+    "wiki_link": "https://train-sim-world.fandom.com/wiki/London_Overground_Suffragette_Line"
+  },
+  {
+    "title": "Long Island Rail Road: New York - Hicksville Route Add-On",
+    "type": "Route",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3656900/972d4709a471a2cbefa430d9554dfc3c74a8b3d9/header.jpg?t=1769159959",
+    "developer": "Unknown",
+    "base_game": "Unknown",
+    "locomotives": [
+      "M7"
+    ],
+    "steam_link": "https://store.steampowered.com/app/3656900/",
+    "epic_link": "https://store.epicgames.com/en-US/p/train-sim-world-5--long-island-railroad-new-york-hicksville",
+    "update_date": "25.09.2025",
+    "required_file": "TS2Prototype-WindowsNoEditor-LongIslandRailRoad.pak",
+    "release_date": "20th November 2018",
+    "status": "released",
+    "wiki_link": "https://train-sim-world.fandom.com/wiki/Long_Island_Rail_Road_%28Operator%29"
+  },
+  {
+    "title": "Main Spessart Bahn: Aschaffenburg - Gemünden Route Add-On",
+    "type": "Route",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3656930/c264d6de9213a04a03275e1d933bd11151d15ba8/header.jpg?t=1776683884",
+    "developer": "Unknown",
+    "base_game": "Unknown",
+    "locomotives": [
+      "DB BR 146",
+      "DB BR 185.2 Railion"
+    ],
+    "steam_link": "https://store.steampowered.com/app/3656930/",
+    "epic_link": "https://store.epicgames.com/en-US/p/train-sim-world-5--main-spessart-bahn-aschaffenburg-gemunden",
+    "update_date": "25.09.2025",
+    "required_file": "TS2Prototype-WindowsNoEditor-MainSpessartBahn.pak",
+    "release_date": "21st February 2019",
+    "status": "released",
+    "wiki_link": "https://train-sim-world.fandom.com/wiki/Main-Spessart_Bahn"
+  },
+  {
+    "title": "Maintalbahn: Aschaffenburg - Miltenberg Route Add-On",
+    "type": "Route",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3663230/df69b5bc559b011d7b9b2950a7612622673a1a4c/header.jpg?t=1756230336",
+    "developer": "Unknown",
+    "base_game": "Unknown",
+    "locomotives": [
+      "DB BR 363",
+      "DB BR 642"
+    ],
+    "steam_link": "https://store.steampowered.com/app/3663230/",
+    "epic_link": "https://store.epicgames.com/en-US/p/train-sim-world-5--maintalbahn-aschaffenburg-miltenberg-route",
+    "update_date": "13.11.2025",
+    "required_file": "TS2Prototype-WindowsNoEditor-Maintalbahn.pak",
+    "release_date": "28th November 2023",
+    "status": "released",
+    "wiki_link": "https://train-sim-world.fandom.com/wiki/Maintalbahn"
+  },
+  {
+    "title": "Manchester Airport Commuter: Manchester - Alderley Edge Route Add-On",
+    "type": "Route",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3663840/3c8d592fc4cf576fb05f23fd9f387493bf620d1c/header.jpg?t=1756228128",
+    "developer": "Unknown",
+    "base_game": "Unknown",
+    "locomotives": [
+      "BR Class 66 DBC",
+      "BR Class 323"
+    ],
+    "steam_link": "https://store.steampowered.com/app/3663840/",
+    "epic_link": "https://store.epicgames.com/en-US/p/train-sim-world-5--manchester-airport-commuter-manchester-alderley-edge",
+    "update_date": "28.10.2025",
+    "required_file": "TS2Prototype-WindowsNoEditor-CreweManchester.pak",
+    "release_date": "1st July 2025",
+    "status": "released",
+    "wiki_link": "https://train-sim-world.fandom.com/wiki/Manchester_Airport_Commuter"
+  },
+  {
+    "title": "MBTA Commuter: Boston - Framingham/Worcester Line Route Add-On",
+    "type": "Route",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3663500/3363ea683cf4dfb53e556b9b5a74780bb449d603/header.jpg?t=1756229314",
+    "developer": "Unknown",
+    "base_game": "Unknown",
+    "locomotives": [
+      "F40PH-3",
+      "HSP46"
+    ],
+    "steam_link": "https://store.steampowered.com/app/3663500/",
+    "epic_link": "https://store.epicgames.com/en-US/p/train-sim-world-5--mbta-commuter-boston-worcester",
+    "update_date": "25.09.2025",
+    "required_file": "TS2Prototype-WindowsNoEditor-BostonWorcester.pak",
+    "release_date": "12th November 2024",
+    "status": "released",
+    "wiki_link": "https://train-sim-world.fandom.com/wiki/MBTA_Commuter%3A_Boston_-_Framingham/Worcester_Line"
+  },
+  {
+    "title": "Medway Valley Line: Strood - Tonbridge Route Add-On",
+    "type": "Route",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4035800/93f7a61be63903b8e4ea05c6b40fa52971382040/header.jpg?t=1774544257",
+    "developer": "Unknown",
+    "base_game": "Unknown",
+    "locomotives": [
+      "BR Class 375"
+    ],
+    "steam_link": "https://store.steampowered.com/app/4035800/",
+    "epic_link": "https://store.epicgames.com/en-US/p/train-sim-world-6--medway-valley-line-strood-tonbridge-route-add-on",
+    "update_date": "26.03.2026",
+    "required_file": "TS2Prototype-WindowsNoEditor-MedwayValleyLineStroodTonbridge.pak",
+    "release_date": "26 March 2026",
+    "status": "recently_added",
+    "wiki_link": "https://train-sim-world.fandom.com/wiki/Medway_Valley_Line"
+  },
+  {
+    "title": "Midland Main Line: Leicester - Derby & Nottingham Route Add-On",
+    "type": "Route",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3663090/e20295a94c9e5c4b9409b99e17bf605914d428dd/header.jpg?t=1756230731",
+    "developer": "Unknown",
+    "base_game": "Unknown",
+    "locomotives": [
+      "BR Class 43 HST",
+      "BR Class 158"
+    ],
+    "steam_link": "https://store.steampowered.com/app/3663090/",
+    "epic_link": "https://store.epicgames.com/zh-CN/p/train-sim-world-3--midland-main-line-leicester-derby-nottingham",
+    "update_date": "25.09.2025",
+    "required_file": "TS2Prototype-WindowsNoEditor-MMLLeicesterDerbyNottingham.pak",
+    "release_date": "18 April 2023",
+    "status": "released",
+    "wiki_link": "https://train-sim-world.fandom.com/wiki/Midland_Main_Line"
+  },
+  {
+    "title": "Mittenwaldbahn: Innsbruck - Garmisch-Partenkirchen Route Add-On",
+    "type": "Route",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3663490/0976da9bb6d674a7705a068afab78bd0800b50a2/header.jpg?t=1756229239",
+    "developer": "Unknown",
+    "base_game": "Unknown",
+    "locomotives": [
+      "DB BR 111",
+      "ÖBB 1020"
+    ],
+    "steam_link": "https://store.steampowered.com/app/3663490/",
+    "epic_link": "https://store.epicgames.com/en-US/p/train-sim-world-5--mittenwaldbahn-innsbruck-garmisch-partenkirchen",
+    "update_date": "18.03.2026",
+    "required_file": "TS2Prototype-WindowsNoEditor-Mittenwaldbahn.pak",
+    "release_date": "11th February 2025",
+    "status": "released",
+    "wiki_link": "https://train-sim-world.fandom.com/wiki/Mittenwaldbahn"
+  },
+  {
+    "title": "Morristown Line: New York & Hoboken - Dover Route Add-On",
+    "type": "Route",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3663660/fb23d2b63b913eb93b5962471a01b02fe71ebcc1/header.jpg?t=1759251783",
+    "developer": "Unknown",
+    "base_game": "Unknown",
+    "locomotives": [
+      "ALP-46",
+      "Arrow III"
+    ],
+    "steam_link": "https://store.steampowered.com/app/3663660/",
+    "epic_link": "https://store.epicgames.com/en-US/p/train-sim-world-6--morristown-line-new-york-hoboken-dover",
+    "update_date": "22.01.2026",
+    "required_file": "TS2Prototype-WindowsNoEditor-Morristown.pak",
+    "release_date": "30th September 2025",
+    "status": "released",
+    "wiki_link": "https://train-sim-world.fandom.com/wiki/Morristown_Line"
+  },
+  {
+    "title": "Nahverkehr Dresden - Riesa Route Add-On",
+    "type": "Route",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2969890/header.jpg?t=1769158679",
+    "developer": "Unknown",
+    "base_game": "Unknown",
+    "locomotives": [
+      "DB BR 143",
+      "DB BR 146",
+      "DB BR 363",
+      "DB BR 442",
+      "MRCE BR 185.5"
+    ],
+    "steam_link": "https://store.steampowered.com/app/2969890/",
+    "epic_link": "https://store.epicgames.com/en-US/p/train-sim-world-4--nahverkehr-dresden-riesa-route-add-on",
+    "update_date": "25.09.2025",
+    "required_file": "TS2Prototype-WindowsNoEditor-DresdenRiesa.pak",
+    "release_date": "9th September 2021",
+    "status": "released",
+    "wiki_link": "https://train-sim-world.fandom.com/wiki/Nahverkehr_Dresden"
+  },
+  {
+    "title": "NEC: Boston - Providence",
+    "type": "Route",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2969940/f292244bd24800c6946b92ff4f805b35e8df05a4/header.jpg?t=1762345357",
+    "developer": "Unknown",
+    "base_game": "Unknown",
+    "locomotives": [
+      "ACS-64",
+      "F40PH-3C"
+    ],
+    "steam_link": "https://store.steampowered.com/app/2969940/Train_Sim_World_5_Northeast_Corridor_Boston__Providence_Route_AddOn",
+    "epic_link": "https://store.epicgames.com/en-US/p/train-sim-world-5--nec-boston-providence",
+    "update_date": "25.09.2025",
+    "required_file": "TS2Prototype-WindowsNoEditor-BostonProvidence.pak",
+    "release_date": "19th August 2021",
+    "status": "released",
+    "wiki_link": "https://train-sim-world.fandom.com/wiki/NEC%3A_Boston_-_Providence"
+  },
+  {
+    "title": "NEC: New York - Stamford",
+    "type": "Route",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4035830/0622bf4ee804bebcf68292839f1dd2a39126e940/header.jpg?t=1773943220",
+    "developer": "Unknown",
+    "base_game": "Unknown",
+    "locomotives": [
+      "ACS-64",
+      "M8",
+      "SD40-2"
+    ],
+    "steam_link": "https://store.steampowered.com/app/4035830/Train_Sim_World_6_Northeast_Corridor_MetroNorth_New_York__Stamford_Route_AddOn",
+    "epic_link": "https://store.epicgames.com/en-US/p/train-sim-world-6--northeast-corridor-metro-north-new-york-stamford",
+    "update_date": "12.05.2026",
+    "required_file": "TS2Prototype-WindowsNoEditor-Stamford.pak",
+    "release_date": "19th March 2026",
+    "status": "recently_added",
+    "wiki_link": "https://train-sim-world.fandom.com/wiki/NEC%3A_New_York_-_Stamford"
+  },
+  {
+    "title": "NEC: New York - Trenton",
+    "type": "Route",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3663040/9ded300cc3d45f22876fceb1bacab1491bd1669a/header.jpg?t=1756230558",
+    "developer": "Unknown",
+    "base_game": "Unknown",
+    "locomotives": [
+      "ALP-46",
+      "ACS-64"
+    ],
+    "steam_link": "https://store.steampowered.com/app/3663040/Train_Sim_World_6_Northeast_Corridor_New_York__Trenton",
+    "epic_link": "https://store.epicgames.com/en-US/p/train-sim-world-6--nec-new-york-trenton",
+    "update_date": "13.11.2025",
+    "required_file": "TS2Prototype-WindowsNoEditor-NewYorkTrenton.pak",
+    "release_date": "22nd February 2023",
+    "status": "released",
+    "wiki_link": "https://train-sim-world.fandom.com/wiki/NEC%3A_New_York_-_Trenton"
+  },
+  {
+    "title": "Niddertalbahn: Bad Vilbel - Stockheim Route Add-On",
+    "type": "Route",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3662840/d491942f5f03bcc3091f9c5aa76b73aecdd557ef/header.jpg?t=1756229867",
+    "developer": "Unknown",
+    "base_game": "Unknown",
+    "locomotives": [
+      "DB BR 365",
+      "DB BR 628"
+    ],
+    "steam_link": "https://store.steampowered.com/app/3662840/",
+    "epic_link": "https://store.epicgames.com/en-US/p/train-sim-world-5--niddertalbahn-bad-vilbel-stockheim-route",
+    "update_date": "18.03.2026",
+    "required_file": "TS2Prototype-WindowsNoEditor-Niddertalbahn.pak",
+    "release_date": "23rd March 2023",
+    "status": "released",
+    "wiki_link": "https://train-sim-world.fandom.com/wiki/Niddertalbahn"
+  },
+  {
+    "title": "Northern Trans-Pennine: Manchester - Leeds Route Add-On",
+    "type": "Route",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3656910/0809b08bc66140ce585254d877c2df366bf3ead5/header.jpg?t=1756386716",
+    "developer": "Unknown",
+    "base_game": "Unknown",
+    "locomotives": [
+      "BR Class 45",
+      "BR Class 47",
+      "BR Class 101"
+    ],
+    "steam_link": "https://store.steampowered.com/app/3656910/",
+    "epic_link": "https://store.epicgames.com/en-US/p/train-sim-world-5--northern-trans-pennine",
+    "update_date": "25.09.2025",
+    "required_file": "TS2Prototype-WindowsNoEditor-LeedsManchester.pak",
+    "release_date": "13th December 2018",
+    "status": "released",
+    "wiki_link": "https://train-sim-world.fandom.com/wiki/Northern_Trans-Pennine"
+  },
+  {
+    "title": "Peak Forest Railway: Ambergate - Chinley & Buxton Route Add-On",
+    "type": "Route",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3663050/29e93cbe1f0d5476600ed659c7e676112b12616b/header.jpg?t=1756230589",
+    "developer": "Unknown",
+    "base_game": "Unknown",
+    "locomotives": [
+      "Fowler 4F",
+      "Jubilee Class",
+      "Stanier Class 8F"
+    ],
+    "steam_link": "https://store.steampowered.com/app/3663050/",
+    "epic_link": "https://store.epicgames.com/en-US/p/train-sim-world-3--peak-forest-railway-ambergate-chinley-buxton",
+    "update_date": "25.09.2025",
+    "required_file": "TS2Prototype-WindowsNoEditor-PeakForestRailway.pak",
+    "release_date": "9th May 2023",
+    "status": "released",
+    "wiki_link": "https://train-sim-world.fandom.com/wiki/Peak_Forest_Railway"
+  },
+  {
+    "title": "Peninsula Corridor: San Francisco - San Jose",
+    "type": "Route",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3662300/6b354425fea8c7faab6c6951e15e8e6cc01c1644/header.jpg?t=1773835365",
+    "developer": "Unknown",
+    "base_game": "Unknown",
+    "locomotives": [
+      "F40PH-2",
+      "GP38-2",
+      "73ft Centerbeam Flatcar",
+      "Gallery Carriages",
+      "Twin Bay Hopper"
+    ],
+    "steam_link": "https://store.steampowered.com/app/3662300/",
+    "epic_link": null,
+    "update_date": "22.01.2026",
+    "required_file": "TS2Prototype-WindowsNoEditor-SanFranSanJose.pak",
+    "release_date": "15th August 2019",
+    "status": "released",
+    "wiki_link": "https://train-sim-world.fandom.com/wiki/Service_Timetable%3A_Peninsula_Corridor"
+  },
+  {
+    "title": "Pfälzische Ludwigsbahn: Mannheim - Kaiserslautern Route Add-On",
+    "type": "Route",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3663510/a27577b5e4c650344147eff43ad9570f319e658c/header.jpg?t=1756229197",
+    "developer": "Unknown",
+    "base_game": "Unknown",
+    "locomotives": [
+      "DB BR 111",
+      "DB BR 185.2 Railion",
+      "DB BR 406 ICE 3M",
+      "DB BR 425"
+    ],
+    "steam_link": "https://store.steampowered.com/app/3663510/",
+    "epic_link": "https://store.epicgames.com/en-US/p/train-sim-world-5--pfalzische-ludwigsbahn-mannheim-kaiserslautern",
+    "update_date": "22.01.2026",
+    "required_file": "TS2Prototype-WindowsNoEditor-MannheimKaiserslautern.pak",
+    "release_date": "30th January 2025",
+    "status": "released",
+    "wiki_link": "https://train-sim-world.fandom.com/wiki/Pf%C3%A4lzische_Ludwigsbahn"
+  },
+  {
+    "title": "Rapid Transit Route Add-On",
+    "type": "Route",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3656870/6da693132697554dfc6b95fafaed8ba2c200b214/header.jpg?t=1769095519",
+    "developer": "Unknown",
+    "base_game": "Unknown",
+    "locomotives": [
+      "DB BR 1442"
+    ],
+    "steam_link": "https://store.steampowered.com/app/3656870/",
+    "epic_link": "https://store.epicgames.com/en-US/p/train-sim-world-5--rapid-transit",
+    "update_date": "25.09.2025",
+    "required_file": "TS2Prototype-WindowsNoEditor-LeipzigS2SBahn.pak",
+    "release_date": "14th December 2017",
+    "status": "released",
+    "wiki_link": "https://train-sim-world.fandom.com/wiki/Rapid_Transit"
+  },
+  {
+    "title": "Rhein-Niers-Bahn",
+    "type": "Route",
+    "image": "https://static.wikia.nocookie.net/train-sim-world/images/a/a5/SoR25-RNB-WM-01.jpg",
+    "developer": "Unknown",
+    "base_game": "Unknown",
+    "locomotives": [],
+    "steam_link": null,
+    "epic_link": null,
+    "update_date": null,
+    "required_file": null,
+    "release_date": "Unknown",
+    "status": "released",
+    "wiki_link": "https://train-sim-world.fandom.com/wiki/Rhein-Niers-Bahn"
+  },
+  {
+    "title": "Rhein-Ruhr Osten: Wuppertal - Hagen Route Add-On",
+    "type": "Route",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3662310/13de5ea46579126c5861edc4e3e82dc562c2b4e1/header.jpg?t=1756228435",
+    "developer": "Unknown",
+    "base_game": "Unknown",
+    "locomotives": [
+      "MRCE BR 185.5",
+      "DB BR 422"
+    ],
+    "steam_link": "https://store.steampowered.com/app/3662310/",
+    "epic_link": "https://store.epicgames.com/en-US/p/train-sim-world-5--rhein-ruhr-osten-wuppertal-hagen",
+    "update_date": "25.09.2025",
+    "required_file": "TS2Prototype-WindowsNoEditor-Wuppertal.pak",
+    "release_date": "10th October 2019",
+    "status": "released",
+    "wiki_link": "https://train-sim-world.fandom.com/wiki/Rhein-Ruhr_Osten"
+  },
+  {
+    "title": "Riviera Line: Exeter – Plymouth & Paignton Route Add-On",
+    "type": "Route",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3663680/abf69c8584290be87d48c720565504932627bab2/header.jpg?t=1759251730",
+    "developer": "Unknown",
+    "base_game": "Unknown",
+    "locomotives": [
+      "BR Class 150",
+      "BR Class 802"
+    ],
+    "steam_link": "https://store.steampowered.com/app/3663680/",
+    "epic_link": "https://store.epicgames.com/en-US/p/train-sim-world-6",
+    "update_date": "05.05.2026",
+    "required_file": "TS2Prototype-WindowsNoEditor-RivieraLine.pak",
+    "release_date": "30th September 2025",
+    "status": "released",
+    "wiki_link": "https://train-sim-world.fandom.com/wiki/Riviera_Line"
+  },
+  {
+    "title": "Ruhr-Sieg Nord: Hagen - Finnentrop Route Add-On",
+    "type": "Route",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3656890/00fc6eae39467cedaa9806efba05d25a052eea04/header.jpg?t=1756230762",
+    "developer": "Unknown",
+    "base_game": "Unknown",
+    "locomotives": [
+      "DB BR 143",
+      "DB BR 185.2 DB"
+    ],
+    "steam_link": "https://store.steampowered.com/app/3656890/",
+    "epic_link": "https://store.epicgames.com/en-US/p/train-sim-world-5--ruhr-sieg-nord-hagen-finnentrop",
+    "update_date": "25.09.2025",
+    "required_file": "TS2Prototype-WindowsNoEditor-RuhrSiegNord.pak",
+    "release_date": "16th August 2018",
+    "status": "released",
+    "wiki_link": "https://train-sim-world.fandom.com/wiki/Service_Timetable%3A_Ruhr_Sieg_Nord"
+  },
+  {
+    "title": "S-Bahn Vorarlberg: Lindau - Bludenz Route Add-On",
+    "type": "Route",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3663210/99c4d79e33794d866c087243e6444e2083131dfc/header.jpg?t=1769157719",
+    "developer": "Unknown",
+    "base_game": "Unknown",
+    "locomotives": [
+      "DB BR 185.2 Railion",
+      "ÖBB 4024"
+    ],
+    "steam_link": "https://store.steampowered.com/app/3663210/",
+    "epic_link": "https://store.epicgames.com/en-US/p/train-sim-world-4--vorarlberg-railway",
+    "update_date": "25.09.2025",
+    "required_file": "TS2Prototype-WindowsNoEditor-Vorarlberg.pak",
+    "release_date": "26 September 2023",
+    "status": "released",
+    "wiki_link": "https://train-sim-world.fandom.com/wiki/S-Bahn_Vorarlberg"
+  },
+  {
+    "title": "S-Bahn Zentralschweiz: Luzern - Sursee Route Add-On",
+    "type": "Route",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3662720/15e71fcc891ddea2ed5990cfc4f5e5d7d87cd05d/header.jpg?t=1756229699",
+    "developer": "Unknown",
+    "base_game": "Unknown",
+    "locomotives": [
+      "SBB RABe 523"
+    ],
+    "steam_link": "https://store.steampowered.com/app/3662720/",
+    "epic_link": "https://store.epicgames.com/en-US/p/train-sim-world-5--s-bahn-zentralschweiz-luzern-sursee",
+    "update_date": "25.09.2025",
+    "required_file": "TS2Prototype-WindowsNoEditor-LuzernSursee.pak",
+    "release_date": "24th March 2022",
+    "status": "released",
+    "wiki_link": "https://train-sim-world.fandom.com/wiki/S-Bahn_Zentralschweiz"
+  },
+  {
+    "title": "San Bernardino Line: Los Angeles - San Bernardino Route Add-On",
+    "type": "Route",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3663440/eb2932b830af535b29b1204ed9e7e75cde3fc049/header.jpg?t=1756229519",
+    "developer": "Unknown",
+    "base_game": "Unknown",
+    "locomotives": [
+      "F125",
+      "MP36PH-3C"
+    ],
+    "steam_link": "https://store.steampowered.com/app/3663440/",
+    "epic_link": "https://store.epicgames.com/en-US/p/train-sim-world-5--san-bernardino-line-los-angeles-san-bernardino-route",
+    "update_date": "13.11.2025",
+    "required_file": "TS2Prototype-WindowsNoEditor-SanBernardino.pak",
+    "release_date": "17th September 2024",
+    "status": "released",
+    "wiki_link": "https://train-sim-world.fandom.com/wiki/San_Bernardino_Line"
+  },
+  {
+    "title": "Sand Patch Grade Route Add-On",
+    "type": "Route",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3662880/40a1d53baa1529a1d3d2bc27d389f0717817b71c/header.jpg?t=1769441961",
+    "developer": "Unknown",
+    "base_game": "Unknown",
+    "locomotives": [
+      "AC4400CW",
+      "GP38-2",
+      "SD40-2"
+    ],
+    "steam_link": "https://store.steampowered.com/app/3662880/",
+    "epic_link": "https://store.epicgames.com/en-US/p/train-sim-world-5--sand-patch-grade",
+    "update_date": "25.09.2025",
+    "required_file": "TS2Prototype-WindowsNoEditor-SandPatchGrade.pak",
+    "release_date": "8th December 2016 (Beta), 16th March 2017 (Release)",
+    "status": "released",
+    "wiki_link": "https://train-sim-world.fandom.com/wiki/Sand_Patch_Grade"
+  },
+  {
+    "title": "Schnellfahrstrecke Kassel-Würzburg",
+    "type": "Route",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2970050/3bff55cb6d5a16f1ce0d65788900e2cbd0540649/header.jpg?t=1769158213",
+    "developer": "Unknown",
+    "base_game": "Unknown",
+    "locomotives": [
+      "DB BR 185.2 Raillion",
+      "DB BR 401 ICE 1",
+      "DB BR 403 ICE 3"
+    ],
+    "steam_link": "https://store.steampowered.com/app/2970050/Train_Sim_World_5_Schnellfahrstrecke_Kassel__Wrzburg_Route_AddOn",
+    "epic_link": "https://store.epicgames.com/en-US/p/train-sim-world-5--schnellfahrstrecke-kassel-wurzburg",
+    "update_date": "22.01.2026",
+    "required_file": "TS2Prototype-WindowsNoEditor-SFSKasselWurzburg.pak",
+    "release_date": "6th September 2022",
+    "status": "released",
+    "wiki_link": "https://train-sim-world.fandom.com/wiki/Schnellfahrstrecke_Kassel-W%C3%BCrzburg"
+  },
+  {
+    "title": "Schnellfahrstrecke Köln-Aachen",
+    "type": "Route",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3662860/8d44fc20040392b9ef30c6ea84906d2ed75cbb59/header.jpg?t=1771437757",
+    "developer": "Unknown",
+    "base_game": "Unknown",
+    "locomotives": [
+      "DB BR 406 ICE 3M",
+      "DB BR 442"
+    ],
+    "steam_link": "https://store.steampowered.com/app/3662860/Train_Sim_World_6_Schnellfahrstrecke_KolnAachen_Route_AddOn",
+    "epic_link": "https://store.epicgames.com/en-US/p/train-sim-world-6--schnellfahrstrecke-koln-aachen",
+    "update_date": "12.02.2026",
+    "required_file": "TS2Prototype-WindowsNoEditor-KolnAachen.pak",
+    "release_date": "20th August 2020",
+    "status": "released",
+    "wiki_link": "https://train-sim-world.fandom.com/wiki/Schnellfahrstrecke_K%C3%B6ln-Aachen"
+  },
+  {
+    "title": "Schnellfahrstrecke Nürnberg - Ingolstadt",
+    "type": "Route",
+    "image": null,
+    "developer": "Unknown",
+    "base_game": "Unknown",
+    "locomotives": [
+      "DB BR 403 ICE 3"
+    ],
+    "steam_link": null,
+    "epic_link": null,
+    "update_date": null,
+    "required_file": null,
+    "release_date": "Unknown",
+    "status": "released",
+    "wiki_link": "https://train-sim-world.fandom.com/wiki/Schnellfahrstrecke_N%C3%BCrnberg_-_Ingolstadt"
+  },
+  {
+    "title": "ScotRail Express: Edinburgh - Glasgow Route Add-On",
+    "type": "Route",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2970260/058e2d65249ea7e15e0e97382e017024781c0b43/header.jpg?t=1762517249",
+    "developer": "Unknown",
+    "base_game": "Unknown",
+    "locomotives": [
+      "BR Class 385",
+      "Edinburgh Trams (AI)"
+    ],
+    "steam_link": "https://store.steampowered.com/app/2970260/",
+    "epic_link": null,
+    "update_date": "25.09.2025",
+    "required_file": "TS2Prototype-WindowsNoEditor-EdinburghGlasgow.pak",
+    "release_date": "26th January 2023",
+    "status": "released",
+    "wiki_link": "https://train-sim-world.fandom.com/wiki/ScotRail_Express"
+  },
+  {
+    "title": "Semmeringbahn: Wiener Neustadt - Mürzzuschlag Route Add-On",
+    "type": "Route",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3663390/a8188fe9bd3ff43a93dcbd13354a1151fb9861b1/header.jpg?t=1756229745",
+    "developer": "Unknown",
+    "base_game": "Unknown",
+    "locomotives": [
+      "ÖBB 1116",
+      "ÖBB 4024"
+    ],
+    "steam_link": "https://store.steampowered.com/app/3663390/",
+    "epic_link": "https://store.epicgames.com/en-US/p/train-sim-world-4--semmeringbahn-wiener-neustadt-murzzuschlag",
+    "update_date": "25.09.2025",
+    "required_file": "TS2Prototype-WindowsNoEditor-Semmeringbahn.pak",
+    "release_date": "18th April 2024",
+    "status": "released",
+    "wiki_link": "https://train-sim-world.fandom.com/wiki/Semmeringbahn"
+  },
+  {
+    "title": "Sherman Hill: Cheyenne - Laramie Route Add-On",
+    "type": "Route",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3662670/de99b94bad8c792256e4f8840d248584817afd10/header.jpg?t=1756229570",
+    "developer": "Unknown",
+    "base_game": "Unknown",
+    "locomotives": [
+      "SD70ACe",
+      "SD40-2"
+    ],
+    "steam_link": "https://store.steampowered.com/app/3662670/",
+    "epic_link": "https://store.epicgames.com/en-US/p/train-sim-world-5--sherman-hill-cheyenne-laramie",
+    "update_date": "25.09.2025",
+    "required_file": "TS2Prototype-WindowsNoEditor-ShermanHill.pak",
+    "release_date": "25th November 2021",
+    "status": "released",
+    "wiki_link": "https://train-sim-world.fandom.com/wiki/Sherman_Hill"
+  },
+  {
+    "title": "Southeastern High Speed: London St Pancras - Faversham Route Add-On",
+    "type": "Route",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1418846/header.jpg?t=1727953838",
+    "developer": "Unknown",
+    "base_game": "Unknown",
+    "locomotives": [
+      "BR Class 395",
+      "BR Class 375/9"
+    ],
+    "steam_link": "https://store.steampowered.com/app/1418846/",
+    "epic_link": "https://www.epicgames.com/store/en-US/p/train-sim-world-2--southeastern-high-speed-london-faversham",
+    "update_date": "27.04.2026",
+    "required_file": "TS2Prototype-WindowsNoEditor-LondonFaversham.pak",
+    "release_date": "4th February 2021",
+    "status": "released",
+    "wiki_link": "https://train-sim-world.fandom.com/wiki/Southeastern_High_Speed"
+  },
+  {
+    "title": "Southeastern High Speed Extended",
+    "type": "Route",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2970070/94ab8d37908cbb6d35712eb283dfb87cf24a4890/header.jpg?t=1769157880",
+    "developer": "Unknown",
+    "base_game": "Unknown",
+    "locomotives": [
+      "BR Class 66",
+      "BR Class 375",
+      "BR Class 395",
+      "BR Class 465"
+    ],
+    "steam_link": "https://store.steampowered.com/app/2970070/Train_Sim_World_5_Southeastern_Highspeed_London_St_Pancras__Ashford_Intl__Faversham_Route_AddOn",
+    "epic_link": "https://store.epicgames.com/en-US/p/train-sim-world-5--southeastern-highspeed",
+    "update_date": null,
+    "required_file": null,
+    "release_date": "6th September 2022",
+    "status": "released",
+    "wiki_link": "https://train-sim-world.fandom.com/wiki/Southeastern_High_Speed_Extended"
+  },
+  {
+    "title": "Southern Pacific Ore Lines: Hayden Branch",
+    "type": "Route",
+    "image": "https://static.wikia.nocookie.net/train-sim-world/images/1/14/SoR25-SPOL-WM-01.jpg",
+    "developer": "Unknown",
+    "base_game": "Unknown",
+    "locomotives": [],
+    "steam_link": null,
+    "epic_link": null,
+    "update_date": null,
+    "required_file": null,
+    "release_date": "Unknown",
+    "status": "coming_soon",
+    "wiki_link": "https://train-sim-world.fandom.com/wiki/Southern_Pacific_Ore_Lines%3A_Hayden_Branch"
+  },
+  {
+    "title": "Spirit of Steam: Liverpool Lime Street - Crewe Route Add-On",
+    "type": "Route",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3662830/0b96c668a9ed285f233a68297b1b86aaf96eefe0/header.jpg?t=1764616402",
+    "developer": "Unknown",
+    "base_game": "Unknown",
+    "locomotives": [
+      "Jubilee Class",
+      "Stanier Class 8F"
+    ],
+    "steam_link": "https://store.steampowered.com/app/3662830/",
+    "epic_link": "https://store.epicgames.com/en-US/p/train-sim-world-5--spirit-of-steam-liverpool-lime-street-crewe",
+    "update_date": "25.09.2025",
+    "required_file": "TS2Prototype-WindowsNoEditor-SpiritOfSteam.pak",
+    "release_date": "May 31st 2022",
+    "status": "released",
+    "wiki_link": "https://train-sim-world.fandom.com/wiki/Spirit_of_Steam"
+  },
+  {
+    "title": "Spoorlijn Zwolle - Groningen Route Add-On",
+    "type": "Route",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3663610/b08481d88546c73518ef740493a06d62004ed05a/header.jpg?t=1756228571",
+    "developer": "Unknown",
+    "base_game": "Unknown",
+    "locomotives": [
+      "ICMm Koploper",
+      "SNG Sprinter"
+    ],
+    "steam_link": "https://store.steampowered.com/app/3663610/",
+    "epic_link": "https://store.epicgames.com/en-US/p/train-sim-world-5--spoorlijn-zwolle-groningen",
+    "update_date": "25.09.2025",
+    "required_file": "TS2Prototype-WindowsNoEditor-ZwolleGroningen.pak",
+    "release_date": "25th March 2025",
+    "status": "released",
+    "wiki_link": "https://train-sim-world.fandom.com/wiki/Spoorlijn_Zwolle_-_Groningen"
+  },
+  {
+    "title": "Tadami Line",
+    "type": "Route",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1267502/header.jpg?t=1727439047",
+    "developer": "Unknown",
+    "base_game": "Unknown",
+    "locomotives": [
+      "KiHa 40"
+    ],
+    "steam_link": null,
+    "epic_link": null,
+    "update_date": null,
+    "required_file": null,
+    "release_date": "0-3 Months",
+    "status": "released",
+    "wiki_link": "https://train-sim-world.fandom.com/wiki/Tadami_Line"
+  },
+  {
+    "title": "Tees Valley Line: Darlington – Saltburn-by-the-Sea Route Add-On",
+    "type": "Route",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3662290/d4aafee22bea1fe2aa52dc6ecd70a3ce33babb43/header.jpg?t=1756228354",
+    "developer": "Unknown",
+    "base_game": "Unknown",
+    "locomotives": [
+      "BR Class 08",
+      "BR Class 37",
+      "BR Class 101"
+    ],
+    "steam_link": "https://store.steampowered.com/app/3662290/",
+    "epic_link": "https://store.epicgames.com/en-US/p/train-sim-world-5--tees-valley-line-darlington-saltburn-by-sea",
+    "update_date": "25.09.2025",
+    "required_file": "TS2Prototype-WindowsNoEditor-DarlingtonSaltburn.pak",
+    "release_date": "23rd May 2019",
+    "status": "released",
+    "wiki_link": "https://train-sim-world.fandom.com/wiki/Service_Timetable%3A_Tees_Valley_Line"
+  },
+  {
+    "title": "Tharandter Rampe: Dresden - Chemnitz Route Add-On",
+    "type": "Route",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3662710/1395a34e2cbbad5da67841ddb227d5455093869c/header.jpg?t=1756229671",
+    "developer": "Unknown",
+    "base_game": "Unknown",
+    "locomotives": [
+      "DB BR 143",
+      "DB BR 363",
+      "DB BR 612",
+      "RP BR 185.6"
+    ],
+    "steam_link": "https://store.steampowered.com/app/3662710/",
+    "epic_link": "https://store.epicgames.com/en-US/p/train-sim-world-5--tharandter-rampe-dresden-chemnitz",
+    "update_date": "25.09.2025",
+    "required_file": "TS2Prototype-WindowsNoEditor-DresdenChemnitz.pak",
+    "release_date": "13th January 2022",
+    "status": "released",
+    "wiki_link": "https://train-sim-world.fandom.com/wiki/Tharandter_Rampe"
+  },
+  {
+    "title": "Training Center",
+    "type": "Route",
+    "image": "https://static.wikia.nocookie.net/train-sim-world/images/5/51/Ss_3134badff55372d3ec07405745f083f36a9dc341.jpg",
+    "developer": "Unknown",
+    "base_game": "Unknown",
+    "locomotives": [
+      "BR Class 66"
+    ],
+    "steam_link": null,
+    "epic_link": null,
+    "update_date": null,
+    "required_file": null,
+    "release_date": "6th September 2022",
+    "status": "released",
+    "wiki_link": "https://train-sim-world.fandom.com/wiki/Training_Center"
+  },
+  {
+    "title": "West Coast Main Line: Birmingham - Crewe Route Add-On",
+    "type": "Route",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3879860/531267b1f7832ccaa75e48577e19bc857680e61d/header.jpg?t=1772192409",
+    "developer": "Unknown",
+    "base_game": "Unknown",
+    "locomotives": [
+      "BR Class 350"
+    ],
+    "steam_link": "https://store.steampowered.com/app/3879860/",
+    "epic_link": "https://store.epicgames.com/en-US/p/train-sim-world-6--west-coast-main-line-birmingham-crewe-route-add-on",
+    "update_date": "27.04.2026",
+    "required_file": "TS2Prototype-WindowsNoEditor-BirminghamCrewe.pak",
+    "release_date": "21st October 2025",
+    "status": "released",
+    "wiki_link": "https://train-sim-world.fandom.com/wiki/West_Coast_Main_Line%3A_Birmingham_-_Crewe"
+  },
+  {
+    "title": "West Coast Main Line: Crewe - Preston",
+    "type": "Route",
+    "image": "https://static.wikia.nocookie.net/train-sim-world/images/c/ca/PrestonCrewe-Aug25RM-WM-3.jpg",
+    "developer": "Unknown",
+    "base_game": "Unknown",
+    "locomotives": [],
+    "steam_link": null,
+    "epic_link": null,
+    "update_date": null,
+    "required_file": null,
+    "release_date": "Unknown",
+    "status": "coming_soon",
+    "wiki_link": "https://train-sim-world.fandom.com/wiki/West_Coast_Main_Line%3A_Crewe_-_Preston"
+  },
+  {
+    "title": "West Coast Main Line: London Euston - Milton Keynes Route Add-On",
+    "type": "Route",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3663450/d4a41fbab65208d6dc2368ddd74e9a58b185d1d8/header.jpg?t=1756229484",
+    "developer": "Unknown",
+    "base_game": "Unknown",
+    "locomotives": [
+      "1972 Mark 2 Stock",
+      "BR Class 66 DBC",
+      "BR Class 350",
+      "BR Class 377"
+    ],
+    "steam_link": "https://store.steampowered.com/app/3663450/",
+    "epic_link": "https://store.epicgames.com/en-US/p/train-sim-world-5--west-coast-main-line-london-euston-milton-keynes-route",
+    "update_date": "06.02.2026",
+    "required_file": "TS2Prototype-WindowsNoEditor-WCMLSouth.pak",
+    "release_date": "17th September 2024",
+    "status": "released",
+    "wiki_link": "https://train-sim-world.fandom.com/wiki/West_Coast_Main_Line%3A_London_Euston_-_Milton_Keynes"
+  },
+  {
+    "title": "West Coast Main Line: Preston - Carlisle Route Add-On",
+    "type": "Route",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3663400/ca200d3b883e186c22a21cf1868fee585cf61911/header.jpg?t=1756229277",
+    "developer": "Unknown",
+    "base_game": "Unknown",
+    "locomotives": [
+      "BR Class 08",
+      "BR Class 47",
+      "BR Class 87",
+      "BR Class 101"
+    ],
+    "steam_link": "https://store.steampowered.com/app/3663400/",
+    "epic_link": "https://store.epicgames.com/en-US/p/train-sim-world-5--west-coast-main-line-preston-carlisle",
+    "update_date": "25.09.2025",
+    "required_file": "TS2Prototype-WindowsNoEditor-PrestonCarlisle.pak",
+    "release_date": "26th November 2024",
+    "status": "released",
+    "wiki_link": "https://train-sim-world.fandom.com/wiki/West_Coast_Main_Line%3A_Preston_-_Carlisle"
+  },
+  {
+    "title": "West Coast Main Line Trent Valley: Milton Keynes - Crewe Route Add-On",
+    "type": "Route",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4035810/aef5dbafcb600c0e2ced6e2efa02fe5493795b5d/header.jpg?t=1778842379",
+    "developer": "Unknown",
+    "base_game": "Unknown",
+    "locomotives": [
+      "BR Class 350",
+      "BR Class 807"
+    ],
+    "steam_link": "https://store.steampowered.com/app/4035810/",
+    "epic_link": null,
+    "update_date": null,
+    "required_file": null,
+    "release_date": "Unknown",
+    "status": "released",
+    "wiki_link": "https://train-sim-world.fandom.com/wiki/West_Coast_Main_Line"
+  },
+  {
+    "title": "West Cornwall Local: Penzance - St Austell & St Ives Route Add-On",
+    "type": "Route",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3662660/fe7c4053c652228cbd891090fca4dff06867b6a1/header.jpg?t=1764241584",
+    "developer": "Unknown",
+    "base_game": "Unknown",
+    "locomotives": [
+      "BR Class 37",
+      "BR Class 150"
+    ],
+    "steam_link": "https://store.steampowered.com/app/3662660/",
+    "epic_link": "https://store.epicgames.com/en-US/p/train-sim-world-5--west-cornwall-local",
+    "update_date": "25.09.2025",
+    "required_file": "TS2Prototype-WindowsNoEditor-PenzanceTruro.pak",
+    "release_date": "4th November 2021",
+    "status": "released",
+    "wiki_link": "https://train-sim-world.fandom.com/wiki/West_Cornwall_Local"
+  },
+  {
+    "title": "West Somerset Railway Route Add-On",
+    "type": "Route",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3656880/48ecf435676615749b7ce9f288521b8967a3bea3/header.jpg?t=1756227931",
+    "developer": "Unknown",
+    "base_game": "Unknown",
+    "locomotives": [
+      "BR Class 09",
+      "BR Class 47"
+    ],
+    "steam_link": "https://store.steampowered.com/app/3656880/",
+    "epic_link": "https://store.epicgames.com/en-US/p/train-sim-world-5--west-somerset-railway",
+    "update_date": "06.02.2026",
+    "required_file": "TS2Prototype-WindowsNoEditor-TSW2WestSomersetRailway.pak",
+    "release_date": "24th May 2018",
+    "status": "released",
+    "wiki_link": "https://train-sim-world.fandom.com/wiki/West_Somerset_Railway"
+  },
+  {
+    "title": "Thomas & Friends™ 80th Anniversary Expansion",
+    "type": "Route",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3663650/0309bdcfcd5ed471ccfa04e5e73069699d08bdc2/header.jpg?t=1756228269",
+    "developer": "Dovetail Games",
+    "base_game": "Train Sim World 6",
+    "required_file": "TS2Prototype-WindowsNoEditor-ArtemisBirthdayPack.pak",
+    "update_date": "25.09.2025",
+    "steam_link": "https://store.steampowered.com/app/3663650/",
+    "epic_link": null,
+    "release_date": "17th March 2026",
+    "status": "recently_added",
+    "wiki_link": "https://train-sim-world.fandom.com/wiki/Thomas_the_Tank_Engine"
+  },
+  {
+    "title": "Thomas & Friends™ Visit the West Somerset Railway",
+    "type": "Route",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3663650/header.jpg",
+    "developer": "Dovetail Games",
+    "base_game": "Train Sim World 5",
+    "locomotives": [
+      "Thomas the Tank Engine",
+      "Annie & Clarabel",
+      "Diesel",
+      "Troublesome Trucks"
+    ],
+    "steam_link": "https://store.steampowered.com/app/3663650/",
+    "epic_link": null,
+    "update_date": "25.09.2025",
+    "required_file": "TS2Prototype-WindowsNoEditor-Artemis.pak",
+    "release_date": "20th March 2025",
+    "status": "released",
+    "wiki_link": "https://train-sim-world.fandom.com/wiki/Thomas_%26_Friends_Visit_the_West_Somerset_Railway"
+  }
+]
